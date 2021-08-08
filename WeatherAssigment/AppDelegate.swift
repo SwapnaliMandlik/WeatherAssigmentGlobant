@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  WeatherAssigment
-//
-//  Created by Admin on 06/08/21.
-//
+
 
 import UIKit
 
